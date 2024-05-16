@@ -1,6 +1,9 @@
 # auth_firebase
 
-A new Flutter project.
+A new Flutter Using Firebase Authentication
+
+- Email and Password Login using Authentication Firebase
+- Email and Password Register using Authentication Firebase
 
 ## Getting Started
 
